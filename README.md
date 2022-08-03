@@ -1,3 +1,4 @@
+[![build](https://github.com/SarnadAbhilash/H2O-AutoML-Burnout-prediction/actions/workflows/main.yml/badge.svg)](https://github.com/SarnadAbhilash/H2O-AutoML-Burnout-prediction/actions/workflows/main.yml)
 # AutoML-Burnout prediction
 This project leverages the AutoML solution of [H2O.AI](https://docs.h2o.ai/h2o/latest-stable/h2o-docs/automl.html) to predict burn out rate of employees based on the provided features.
 
